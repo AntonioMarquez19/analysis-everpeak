@@ -35,7 +35,7 @@ El proyecto se desarrolló siguiendo un flujo de trabajo de ciencia de datos:
 Cómo ejecutar el Notebook
 
 Requisitos previos
--Librerías de Python necesarias: `pandas`, `matplotlib`, `seaborn`.
+-Librerías de Python necesarias:`pandas`, `matplotlib`, `seaborn`.
 
 Instrucciones
 1.  Cargar el archivo: Sube el notebook `.ipynb` a tu entorno de preferencia Github.
